@@ -9,6 +9,6 @@
 تست و عیب‌یابی سناریوهای مختلف خرابی
 اهداف یادگیری:
 تسلط بر مفاهیم پیشرفته EIGRP: DUAL Algorithm, Feasible Distance, Successor/Feasible Successor
-پیکربندی و تنظیم EIGRP: Classic و Named Mode، Network Statements، Wildcard Masks
+پیکربندی و تنظیم EIGRP: Classic و  Wildcard Masks
 پیاده‌سازی Stub Router: تکنیک‌های Query Scoping و جلوگیری از SIA (Stuck in Active)
 خلاصه‌سازی مسیرها (Route Summarization): Manual Summarization، Auto-Summary، CIDR
